@@ -9,10 +9,10 @@
 
 
 <h4>Features</h4>
-- Sleek Design: Best Games features an elegant and modern user interface, making it visually appealing to users.
-- Interactive Slider: The app utilizes the carousel_slider package to display a dynamic and interactive slider that showcases various game images.
-- Glassmorphism: Incorporating the glass_kit package, the app employs the glassmorphism design trend, enhancing the aesthetics and adding a touch of sophistication.
-- Smooth Navigation: Users can seamlessly glide through the slider and access more information about each game.
+- Sleek Design: Best Games features an elegant and modern user interface, making it visually appealing to users
+- Interactive Slider: The app utilizes the carousel_slider package to display a dynamic and interactive slider that showcases various game images
+- Glassmorphism: Incorporating the glass_kit package, the app employs the glassmorphism design trend, enhancing the aesthetics and adding a touch of sophistication
+- Smooth Navigation: Users can seamlessly glide through the slider and access more information about each game
 
 
 
@@ -38,5 +38,6 @@ $ flutter pub get
 
 <h3> 4- Run the application in development mode</h3>
 $ flutter run
+
 
 We hope you enjoy exploring and using the Best Games Flutter project. If you have any questions, feedback, or suggestions, please don't hesitate to reach out. Happy coding and gaming! 🎮🚀
