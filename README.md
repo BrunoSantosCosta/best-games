@@ -7,15 +7,6 @@
 ## Description
 <p>Welcome to the Best Games Flutter project! This repository showcases a beautifully designed app that highlights a collection of popular games using a captivating slider layout. With stunning visuals and intuitive navigation, Best Games provides an immersive experience for gamers and app enthusiasts alike.</p>
 
-
-<h3>Features</h3>
-- Sleek Design: Best Games features an elegant and modern user interface, making it visually appealing to users
-- Interactive Slider: The app utilizes the carousel_slider package to display a dynamic and interactive slider that showcases various game images
-- Glassmorphism: Incorporating the glass_kit package, the app employs the glassmorphism design trend, enhancing the aesthetics and adding a touch of sophistication
-- Smooth Navigation: Users can seamlessly glide through the slider and access more information about each game
-
-
-
 <h3>Dependencies</h3>
 The following dependencies were used to develop the Best Games project:
 
