@@ -1,7 +1,7 @@
 <h1 align="center">Best Games - Flutter Project</h1>
 
-<p>
- <img src="./images/layout-app.png" align="center">
+<p align="center">
+ <img src="./images/layout-app.png">
 </p>
 
 ## Description
@@ -37,7 +37,8 @@ $ cd best-games
 $ flutter pub get
 
 <h4> 4- Run the application in development mode</h4>
-$ flutter run
+$ flutter run<br><br>
 
-<br>
-We hope you enjoy exploring and using the Best Games Flutter project. If you have any questions, feedback, or suggestions, please don't hesitate to reach out. Happy coding and gaming! 🎮🚀
+
+
+We hope you enjoy exploring and using the Best Games Flutter project. If you have any questions, feedback, or suggestions, please don't hesitate to reach out! 🎮🚀
